@@ -1,0 +1,6 @@
+Donation_ID,Adopter_ID,Pro_ID,Donation_Type,Donation_Amount
+300,001,104,Credit,50
+301,001,102,Paypal,150
+302,003,103,Paypal,20
+303,004,104,Credit,100
+304,005,105,Paypal,100

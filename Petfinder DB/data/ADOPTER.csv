@@ -1,0 +1,6 @@
+Adopter_ID,Adopter_Fname,Adopter_Lname,Adopter_Email,Adopter_PNum,Zip_Code,Pet_Owner_Status,Notification,Donation_ID
+0001,Ben,Parry,PB@gmail.com,1112223333,95120,1,1,300
+0002,Ellis,Watts,EW@gmail.com,2223334444,95121,1,0,301
+0003,Molly,Miller,MM@gmail.com,3334445555,95122,0,1,302
+0004,Isabella,Clark,IC@gmail.com,4445556666,95123,0,1,303
+0005,Logan,Barnes,LB@gmail.com,5556667777,95124,0,0,304

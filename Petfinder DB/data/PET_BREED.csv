@@ -1,0 +1,31 @@
+Pet_Breed_ID,Pet_Breed,Pet_Type_ID
+200,Unknown Dog Breed,201
+201,Akita,201
+202,Beagle,201
+203,Bulldog,201
+204,Boxer,201
+205,Cattle Dog,201
+206,Chihuahua,201
+207,Dachshund,201
+208,Shepherd,201
+209,Retriever,201
+210,Schauzer,201
+211,Siberian Husky,201
+212,Poodle,201
+213,Terrier,201
+300,Unknown Cat Breed,202
+301,Abyssinian,202
+302,American Shorthair,202
+303,Calico,202
+304,Domestic Long Hair,202
+305,Domestic Short Hair,202
+306,Maine Coon,202
+307,Russian Blue,202
+308,Siamese,202
+400,Unknown Rabbit Breed,203
+401,American,203
+402,Bunny Rabbit,203
+403,Dutch,203
+404,Dwarf,203
+405,English Spot,203
+406,New Zealand,203
