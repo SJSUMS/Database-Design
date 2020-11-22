@@ -1,9 +1,10 @@
 
--- ------------- --
--- Petfinder DDL -- 
--- ------------- --
-
--- DROP TABLE IF EXISTS
+-- -------------------------- --
+-- Petfinder Database Design. --
+-- Schema                     --
+-- By Mavis Wang              --
+-- 11/20/2020                 --
+-- -------------------------- --
 
 
 CREATE TABLE PET_TYPE (
