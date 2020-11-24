@@ -1,6 +1,6 @@
 Case Study in 11.2020
 
-# Petfinder Database Design
+# Case Study: Petfinder Database Design
 
 Petfinder is an online service where millions of pets find their families through adoption. The website provides a centralized space for animal shelters, rescue groups and adoption organizations to post about their available pets and relevant information to help pet lovers find their perfect match. It is a great resource for both providers and potential adopters to share information; however, pet information is sometimes duplicated, dated, or inconsistent because the organizations usually don’t have a unified data structure and database system.
 
