@@ -13,10 +13,11 @@ My objective of this case study is to help Petfinder establish an efficient data
 2. Conceptual Design
 3. Logical Design (ERD)
 4. Create Schema (mySQL)
-5. Implementation (load and test data)
-6. Data Mining and Wrangling
-7. Analize data
+5. Data Mining and wrangling (clean data)
+6. Implementation (load and test data)
+7. Analytical queries
+8. Business Intelligence
 
 # Files
 - [Schema in mySQL](https://github.com/mavisw/Database/blob/main/Petfinder%20DB/Pet_Schema.sql)
-- [Sample Dataset](https://github.com/mavisw/Database/tree/main/Petfinder%20DB/data)
+- [Sample Dataset](https://github.com/mavisw/Database/tree/main/Petfinder%20DB/data
