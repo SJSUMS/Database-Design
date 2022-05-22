@@ -134,3 +134,6 @@ count(Pet_Color) over(partition by Pet_Color) as Num_color
 from petinfo
 
     
+-- Author: Mavis Wang
+-- https://www.linkedin.com/in/maviswang
+-- Ⓒ 2020 Mavis Wang
