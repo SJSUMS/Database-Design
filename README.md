@@ -1,4 +1,4 @@
-Case Study 2020
+Individual Case Study 2020
 # Petfinder Database Design
 A case studies of relational database design and query based on available data and information on Petfinder.com using mySQL.
 
@@ -25,11 +25,13 @@ A case studies of relational database design and query based on available data a
 4. Animal shelter geographic distribution analysis
 
 ## Visualization
-- [Related Project: Geographic animal shelter and intakes distribution analysis](https://github.com/mavis-wang/US-Animal-Shelter-Intake-Geo-Analysis-2020)
+- [Related Project: 2020 US Animal Shelter Intake Geo Analysis](https://github.com/mavis-wang/US-Animal-Shelter-Intake-Geo-Analysis-2020)
 - Interactive Story-teling Dashboard
 - Featured Viz of The Day (VOTD)
 
-# Deliverables and Dataset
-- [Schema in mySQL](https://github.com/mavisw/Database/blob/main/Petfinder%20DB/Pet_Schema.sql)
-- [Queries](https://github.com/mavis-wang/Petfinder-Database-Design/tree/main/Petfinder%20DB)
-- [Sample Dataset](https://github.com/mavisw/Database/tree/main/Petfinder%20DB/data)
+# Files
+- [Schema in mySQL](https://github.com/mavis-wang/Database/blob/main/Petfinder%20DB/Pet_Schema.sql)
+- [Sample Dataset](https://github.com/mavis-wang/Database/tree/main/Petfinder%20DB/data)
+- Queries: [Provider](https://github.com/mavis-wang/Petfinder-Database-Design/blob/main/Petfinder%20DB/adopter_queries.sql) | 
+[Adoptor](https://github.com/mavis-wang/Petfinder-Database-Design/blob/main/Petfinder%20DB/adopter_queries.sql) |
+[stored procedure](https://github.com/mavis-wang/Petfinder-Database-Design/blob/main/Petfinder%20DB/stored_procedure.sql)
