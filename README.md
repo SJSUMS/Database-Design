@@ -25,9 +25,9 @@ A case studies of relational database design and query based on available data a
 4. Animal shelter geographic distribution analysis
 
 ## Visualization
-- [Geographic shelter animal intakes and distribution analysis](https://github.com/SJSUMS/US-Animal-Shelter-Intake-and-Adoption-Analysis-master)
+- [Related Project: Geographic animal shelter and intakes distribution analysis](https://github.com/mavis-wang/US-Animal-Shelter-Intake-Geo-Analysis-2020)
 - Interactive Story-teling Dashboard
-- Featured Viz of The Day (VOTD) [Tableau Public](https://public.tableau.com/views/2020USShelterAnimalIntakeDistribution/StoryIntakes?:language=en-US&:display_count=n&:origin=viz_share_link)
+- Featured Viz of The Day (VOTD)
 
 # Deliverables and Dataset
 - [Schema in mySQL](https://github.com/mavisw/Database/blob/main/Petfinder%20DB/Pet_Schema.sql)
