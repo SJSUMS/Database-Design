@@ -30,8 +30,8 @@ A case studies of relational database design and query based on available data a
 - Featured Viz of The Day (VOTD)
 
 # Files
-- [Schema in mySQL](https://github.com/mavis-wang/Database/blob/main/Petfinder%20DB/Pet_Schema.sql)
-- [Sample Dataset](https://github.com/mavis-wang/Database/tree/main/Petfinder%20DB/data)
+- [Schema in mySQL](https://github.com/mavis-wang/Petfinder-Database-Design/blob/main/Petfinder%20DB/Pet_Schema.sql)
+- [Sample Dataset](https://github.com/mavis-wang/Petfinder-Database-Design/blob/main/Petfinder%20DB/data)
 - Queries: [Provider](https://github.com/mavis-wang/Petfinder-Database-Design/blob/main/Petfinder%20DB/adopter_queries.sql) | 
 [Adoptor](https://github.com/mavis-wang/Petfinder-Database-Design/blob/main/Petfinder%20DB/adopter_queries.sql) |
 [stored procedure](https://github.com/mavis-wang/Petfinder-Database-Design/blob/main/Petfinder%20DB/stored_procedure.sql)
